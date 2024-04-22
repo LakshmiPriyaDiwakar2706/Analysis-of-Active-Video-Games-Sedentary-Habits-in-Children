@@ -5,6 +5,7 @@ The project investigates the impact of autonomy in game choice on the physical a
 
 ### Tools Used
 R: Utilized for cleaning and preprocessing data to prepare it for analysis.
+
 Tableau: Used for creating dynamic and interactive visualizations to effectively present and analyze the data relationships.
 
 ### Motivation
