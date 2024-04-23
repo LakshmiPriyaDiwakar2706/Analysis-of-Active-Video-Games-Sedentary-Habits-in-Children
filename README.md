@@ -16,6 +16,13 @@ This project was developed to address the critical issue of increasing sedentary
 ### Key Learnings
 * Data Pre-Processing: Handling and integrating complex datasets from diverse sources was essential for accurate analysis.
 * Creating Dashboard: Demonstrated how effective visual representations, created through Tableau, help in interpreting complex data and communicating findings clearly.
+
+### Useful Links:
+## Useful Links
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/actigraph_activity_data.xlsx">Actigraph Activity Data</a>
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/linking data.xlsx">Lining Data</a>
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/Data Cleaning.R">R code file</a>
+
 ### Explore the Dashboard
 Visit the interactive Tableau dashboard here: [Autonomy and Activity Dashboard](https://public.tableau.com/app/profile/lakshmi.priya.diwakar7591/viz/AutonomyandActivity/AutonomyandActivity)
 
