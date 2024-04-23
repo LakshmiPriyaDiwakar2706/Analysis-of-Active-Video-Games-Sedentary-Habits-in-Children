@@ -14,7 +14,7 @@ The rising prevalence of screen time and its correlation with sedentary lifestyl
 This project was developed to address the critical issue of increasing sedentary behavior among children, with significant public health implications. By integrating autonomy into the choice of AVGs, it assesses whether this approach can lead to a meaningful increase in physical activity, informing future health interventions and policies.
 
 ### Key Learnings
-* Data Pre-Processing: Handling and integrating complex datasets from diverse sources was essential for accurate analysis.
+* Data Pre-Processing: Handling and integrating complex datasets was essential for accurate analysis.
 * Creating Dashboard: Demonstrated how effective visual representations, created through Tableau, help in interpreting complex data and communicating findings clearly.
 
 ### Useful Links:
