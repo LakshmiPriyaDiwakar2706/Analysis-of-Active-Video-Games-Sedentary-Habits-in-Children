@@ -19,9 +19,9 @@ This project was developed to address the critical issue of increasing sedentary
 
 ### Useful Links:
 ## Useful Links
-* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/actigraph_activity_data.xlsx">Actigraph Activity Data</a>
-* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/linking data.xlsx">Lining Data</a>
-* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/Data Cleaning.R">R code file</a>
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/actigraph_activity_data.xlsx">Actigraph Activity Data</a>
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/liking data.xlsx">Liking Data</a>
+* <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/Data Cleaning.R">R Code file</a>
 
 ### Explore the Dashboard
 Visit the interactive Tableau dashboard here: [Autonomy and Activity Dashboard](https://public.tableau.com/app/profile/lakshmi.priya.diwakar7591/viz/AutonomyandActivity/AutonomyandActivity)
