@@ -18,7 +18,6 @@ This project was developed to address the critical issue of increasing sedentary
 * Creating Dashboard: Demonstrated how effective visual representations, created through Tableau, help in interpreting complex data and communicating findings clearly.
 
 ### Useful Links:
-## Useful Links
 * <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/actigraph_activity_data.xlsx">Actigraph Activity Data</a>
 * <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/liking data.xlsx">Liking Data</a>
 * <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/Data Cleaning.R">R Code file</a>
