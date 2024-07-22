@@ -19,7 +19,7 @@ This project was developed to address the critical issue of increasing sedentary
 * <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/liking data.xlsx">Liking Data</a>
 * <a href="https://github.com/LakshmiPriyaDiwakar2706/Analysis-of-Active-Video-Games-Sedentary-Habits-in-Children/blob/main/Data Cleaning.R">R Code file</a>
 
-## This project is based on a research study titled "Influence of Active Video Game Play upon Physical and Screen-Based Activities in Children." The dataset was obtained from USDA.gov, and the goal was to create a Tableau dashboard highlighting the key points discussed in the research paper. Additionally, we referred to other research papers to see if autonomy impacts children's physical activity levels through AVG or traditional activity programs (TAP).
+### This project is based on a research study titled "Influence of Active Video Game Play upon Physical and Screen-Based Activities in Children." The dataset was obtained from USDA.gov, and the goal was to create a Tableau dashboard highlighting the key points discussed in the research paper. Additionally, we referred to other research papers to see if autonomy impacts children's physical activity levels through Active Video Games (AVG) or Traditional Active Play (TAP).
 
 ### Findings
 * Baseline Comparison: In both the high and low autonomy groups, the average time spent in Moderate to Vigorous Physical Activity (MVPA) at baseline and week 10 was the same.
